@@ -40,12 +40,12 @@
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HaroonAsifMalik&theme=tokyonight&show_icons=true&count_private=true" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaroonAsifMalik&theme=tokyonight&layout=compact" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=umar1110&theme=tokyonight&show_icons=true&count_private=true" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umar1110&theme=tokyonight&layout=compact" width="300"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HaroonAsifMalik&theme=tokyonight" width="700" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=umar1110&theme=tokyonight" width="700" />
 </p>
 
 
