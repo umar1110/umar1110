@@ -28,18 +28,13 @@
 
 ## ⚙️ Tech Stack & Tooling
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,js,ts,react,nextjs,tailwind,html,css,tensorflow,sklearn,docker,git,linux,aws,vscode,postman" />
-</p>
-
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nuxt,tailwind,html,css,nodejs,express,mongodb,graphql,python,docker,git,linux,aws,vscode,postman,cplusplus" /> </p>
 
 ## 🚀 Project Showcase
 
 | Project                         | Description                                                                     | Tools Used               | Link                                                       |
 | ------------------------------- | ------------------------------------------------------------------------------- | ------------------------ | ---------------------------------------------------------- |
-| 🛒 **E-commerce Platform**      | Secure, full-featured online store with admin dashboard, Stripe, and REST APIs. | Django, React, Stripe    | [Repo](https://github.com/yourusername/ecommerce-platform) |
-| ✍️ **Personal Blog System**     | Minimal blogging site with markdown editor and comment system.                  | Flask, Next.js           | [Repo](https://github.com/yourusername/personal-blog)      |
-| 🧠 **ML House Price Predictor** | Predicts housing prices using regression models and EDA.                        | Scikit-Learn, TensorFlow | [Repo](https://github.com/yourusername/ml-model)           |
+| 🛒 **E-commerce Platform**      | Secure, full-featured online store with admin dashboard, Stripe, and REST APIs. | Node Js, React, Stripe   | [Repo](https://github.com/umar1110/Ecommerce_With_SocketServer.git) |
 
 
 ## 📊 GitHub Insights
@@ -75,7 +70,7 @@ I work with clients worldwide on:
 🧾 Platforms I use:
 
 * [Upwork Profile](https://www.upwork.com/freelancers/~your-profile-id)
-* [Calendly - Schedule a Call](https://calendly.com/haroon-asif/intro-call)
+* [Calendly - Schedule a Call](https://calendly.com/umaraziz-eng)
 
 
 ## ✨ Activity & Contributions
@@ -90,9 +85,8 @@ I work with clients worldwide on:
 ## 📬 Let's Connect
 
 <p align="center">
-  <a href="mailto:haroonasifmalik123@gmail.com"><img src="https://img.shields.io/badge/Email Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/haroon_asif_malik"><img src="https://img.shields.io/badge/LinkedIn Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://calendly.com/haroon-asif/intro-call"><img src="https://img.shields.io/badge/Book Intro Call-00BFA5?style=for-the-badge&logo=google-calendar&logoColor=white"></a>
+  <a href="mailto:umaraziz.eng@gmail.com"><img src="https://img.shields.io/badge/Email Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/umarazizz/ "><img src="https://img.shields.io/badge/LinkedIn Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 
