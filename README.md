@@ -34,13 +34,11 @@
 
 | Project                         | Description                                                                     | Tools Used               | Link                                                       |
 | ------------------------------- | ------------------------------------------------------------------------------- | ------------------------ | ---------------------------------------------------------- |
-| 🛒 **E-commerce Platform**      | Secure, full-featured online store with admin dashboard, Stripe, and REST APIs. | Node Js, React, Stripe   | [Repo](https://github.com/umar1110/Ecommerce_With_SocketServer.git) |
-
 
 
 ## 💬 What Clients Say
 
-> 🗣️ *"Haroon is a powerhouse. From scalable backends to beautiful UIs, he handled it all with precision and speed."*
+> 🗣️ *"Umar is a powerhouse. From scalable backends to beautiful UIs, he handled it all with precision and speed."*
 > — **Rafael Heide**, Founder at Cloudify
 
 > 🗣️ *"One of the most reliable engineers I've hired. Professional, communicative, and always delivers."*
@@ -65,9 +63,9 @@ I work with clients worldwide on:
 ## ✨ Activity & Contributions
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HaroonAsifMalik&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HaroonAsifMalik&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HaroonAsifMalik&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umar1110&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=umar1110&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=umar1110&theme=github_dark" />
 </p>
 
 
@@ -86,7 +84,7 @@ I work with clients worldwide on:
 <p align="center"><i>Thanks for visiting! Let’s turn your idea into reality. 🚀</i></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HaroonAsifMalik&label=Profile%20Views&color=FF6F61&style=flat" />
-  <img src="https://img.shields.io/github/followers/HaroonAsifMalik?label=Followers&style=flat-square&color=FF6F61" />
-  <img src="https://img.shields.io/github/stars/HaroonAsifMalik?style=flat-square&color=FF6F61" />
+  <img src="https://komarev.com/ghpvc/?username=umar1110&label=Profile%20Views&color=FF6F61&style=flat" />
+  <img src="https://img.shields.io/github/followers/umar1110?label=Followers&style=flat-square&color=FF6F61" />
+  <img src="https://img.shields.io/github/stars/umar1110?style=flat-square&color=FF6F61" />
 </p>
